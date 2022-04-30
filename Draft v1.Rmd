@@ -1,0 +1,15 @@
+---
+title: "Assignment 1"
+author: "Ayato Tanemura (atan524)"
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
