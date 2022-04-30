@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1"
+title: "All about AI for Youtube"
 author: "Ayato Tanemura (atan524)"
 date: "`r Sys.Date()`"
 output: 
@@ -8,8 +8,70 @@ output:
     toc_depth: 3
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+\newpage
+
+# Background information of the AI tool/issue
+
+
+
+# What is the chosen AI tool/issue?
+
++ Applications of AI in different context
+
++ Types of AI
+
++ The role of AI
+
++ AI assisted decision makeing
+
+# Who are potential stakeholders? In the other words, to whom it could be relevant, in business/management context?
+
+
+
+# Implementation of AI
+
++ implementation of AI enabled solusions and services in organisations
+
+# Why would these stakeholders be interested in this AI tool? Or why would they be concerned with the AI-related issue?
+
++ AL and human interdependence
+
++ Governance of AI
+
+# What considerations, controversies and concerns exist around the selected tool/issue and how (some of them) could be addressed?
+
++ Compliance, legal and ethical issues
+
+# Conclusion 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
